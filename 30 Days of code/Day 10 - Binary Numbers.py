@@ -26,3 +26,4 @@ while n!=0 :
     else:
         one_count = 0
 print(max_one_count)
+
